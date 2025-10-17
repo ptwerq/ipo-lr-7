@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Карп",
+        "latin_name": "Cyprinus carpio",
+        "is_salt_water_fish": false,
+        "sub_type_count": 3
+    },
+    {
+        "id": 2,
+        "name": "Щука",
+        "latin_name": "Esox lucius",
+        "is_salt_water_fish": false,
+        "sub_type_count": 2
+    },
+    {
+        "id": 3,
+        "name": "Треска",
+        "latin_name": "Gadus morhua",
+        "is_salt_water_fish": true,
+        "sub_type_count": 4
+    },
+    {
+        "id": 4,
+        "name": "Сёмга",
+        "latin_name": "Salmo salar",
+        "is_salt_water_fish": true,
+        "sub_type_count": 3
+    },
+    {
+        "id": 5,
+        "name": "Окунь",
+        "latin_name": "Perca fluviatilis",
+        "is_salt_water_fish": false,
+        "sub_type_count": 2
+    }
+]
